@@ -10,10 +10,10 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là yêu bé nhiều nhiều xíu <33',
     btnNo: 'Không, Anh iu bé một xíu thôi :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu bé ?',
-    btnReply: 'Gửi cho em <3',
+    btnReply: 'Gửi cho bé <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bé biết mà 🥰. Yêu anh iu nhìu nhìu 😘😘',
-    messDesc: 'Anh hứa là lên HN gì anh cũng chiều đó, cho bé cưỡi nhaaaa',
+    messDesc: 'Anh hứa là lên HN gì anh cũng chiều đó nên cho bé cưỡi nhaaaa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' https://www.facebook.com/thwphuongg//
+    messLink: 'https://www.facebook.com/thwphuongg' 
 }
